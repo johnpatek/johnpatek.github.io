@@ -1,0 +1,6 @@
+document.write("<div class=\"topnav\">")
+document.write("<a href=\"index.html\">home</a>")
+document.write("<a href=\"projects.html\">projects</a>")
+document.write("<a href=\"about.html\">about</a>")
+document.write("<a href=\"contact.html\">contact</a>")
+document.write("</div>")
