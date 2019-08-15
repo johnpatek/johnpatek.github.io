@@ -1,8 +1,17 @@
+body, html{
+  margin:0;
+  padding:0;
+}
+
+body{
+    width: 100%;
+    white-space: nowrap;
+}
+
 .topnav {
-    background-color: #333;
+    background-color: black;
     overflow: hidden;
 }
-  
 .topnav a {
     float: left;
     color: white;
