@@ -23,3 +23,8 @@
     background-color: #4CAF50;
     color: white;
   }
+
+  img {
+      text-align: right;
+      display: block;
+  }
