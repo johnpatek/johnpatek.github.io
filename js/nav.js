@@ -1,3 +1,4 @@
+document.write("<h1>John Patek</h1>")
 document.write("<div class=\"topnav\">")
 document.write("<a href=\"index.html\">home</a>")
 document.write("<a href=\"projects.html\">projects</a>")
