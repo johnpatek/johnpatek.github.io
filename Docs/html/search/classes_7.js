@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['lazy',['Lazy',['../classAlice_1_1Lazy.html',1,'Alice']]],
-  ['list',['List',['../classAlice_1_1Collections_1_1Generic_1_1List.html',1,'Alice::Collections::Generic']]]
+  ['png',['PNG',['../classAlice_1_1IO_1_1Decoder_1_1PNG.html',1,'Alice::IO::Decoder']]]
 ];

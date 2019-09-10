@@ -1,6 +1,5 @@
 var searchData=
 [
-  ['generics',['Generics',['../classAlice_1_1Collections_1_1Generics.html',1,'Alice::Collections']]],
   ['getapplicationid',['GetApplicationID',['../namespaceAlice_1_1AppContext.html#aee997b43ee43bf5a52729cf6ad7df9bd',1,'Alice::AppContext']]],
   ['getbasedirectory',['GetBaseDirectory',['../namespaceAlice_1_1AppContext.html#a044ebcdd1e250aa8ef38d21382d2eb94',1,'Alice::AppContext']]],
   ['getcpuinfo',['GetCpuInfo',['../namespaceAlice_1_1System.html#a0b7a0ec7288c06d5960cf7775b041daf',1,'Alice::System']]],
