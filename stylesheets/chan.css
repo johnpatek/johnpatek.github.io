@@ -1,0 +1,112 @@
+body
+{
+    background-image: url(https://s.4cdn.org/image/fade.png);
+    background-position-x: center;
+    background-position-y: top;
+    background-size: initial;
+    background-repeat-x: repeat;
+    background-repeat-y: no-repeat;
+    background-attachment: scroll;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: rgb(255, 255, 238);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10pt;
+    color: maroon;
+}
+
+h1{
+    text-align: center;
+}
+
+.startDiscussion h2
+{
+    text-align: center;
+}
+
+.startDiscussion #label
+{
+    font-weight: 700;
+    border:1px solid maroon;
+    background-color: #ea8;
+    padding: 10px;
+    color: maroon;
+}
+
+.startDiscussion #entry
+{
+    background-color: white;
+    padding: 0;
+    margin: 0;
+}
+
+.startDiscussion input
+{  
+    width: 100%;
+}
+
+.startDiscussion input[type="text"]
+{ 
+    padding: 10px; 
+    line-height: 10px; 
+    width: 100%;
+}
+
+
+.startDiscussion textarea
+{
+    height: 100%;
+    width: 100%;
+}
+
+.startDiscussion table
+{
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.previewDiscussion 
+{
+    text-align: center;
+    width: 100%;
+}
+
+.previewDiscussion a
+{
+    display: inline-block;
+    text-align: left;
+    text-decoration: none;
+    color: inherit;
+    width: 300px;
+    height: 300px;
+    border: 1px solid maroon;
+    padding: 10px;
+    margin: 20px;
+}
+
+.postContainer
+{
+    width: 100%;
+}
+
+.originalPost
+{
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.originalPost h2
+{
+    text-align: left;
+}
+
+.replyPost
+{
+    background-color: #f0e0d6;
+    border: 1px solid #d9bfb7;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5px;
+}

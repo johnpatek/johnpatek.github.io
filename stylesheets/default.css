@@ -1,0 +1,103 @@
+body
+{
+    
+    background-color:antiquewhite;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10pt;
+    color:chocolate;
+}
+
+h1{
+    text-align: center;
+}
+
+.startDiscussion h2
+{
+    text-align: center;
+}
+
+.startDiscussion #label
+{
+    font-weight: 700;
+    border:1px solid chocolate;
+    background-color: burlywood;
+    padding: 10px;
+}
+
+.startDiscussion #entry
+{
+    background-color: white;
+    padding: 0;
+    margin: 0;
+}
+
+.startDiscussion input
+{  
+    width: 100%;
+}
+
+.startDiscussion input[type="text"]
+{ 
+    padding: 10px; 
+    line-height: 10px; 
+    width: 100%;
+}
+
+
+.startDiscussion textarea
+{
+    height: 100%;
+    width: 100%;
+}
+
+.startDiscussion table
+{
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.previewDiscussion 
+{
+    text-align: center;
+    width: 100%;
+}
+
+.previewDiscussion a
+{
+    display: inline-block;
+    text-align: left;
+    text-decoration: none;
+    color: inherit;
+    width: 300px;
+    height: 300px;
+    border: 1px solid chocolate;
+    padding: 10px;
+    margin: 20px;
+}
+
+.postContainer
+{
+    width: 100%;
+}
+
+.originalPost
+{
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.originalPost h2
+{
+    text-align: left;
+}
+
+.replyPost
+{
+    border: 1px solid chocolate;
+    background-color: burlywood;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5px;
+}
