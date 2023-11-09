@@ -1,0 +1,36 @@
+body {
+    background-color: powderblue;
+    margin: 0;
+    padding: 0;
+}
+
+.banner {
+    background-color: black;
+    display: inline;
+    margin: 0px 0px 0px 0px;
+    width: 100%;
+}
+
+h1 {
+    background-color: black;
+    padding: 5px 5px 5px 5px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+}
+
+.name a {
+    color: aquamarine;
+}
+
+.banner-links {
+    background-color: black;
+}
+
+.links a {
+    color:pink;
+}
+
+
+
