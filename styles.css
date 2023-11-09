@@ -6,12 +6,13 @@ body {
 
 .banner {
     background-color: black;
-    display: inline;
-    margin: 0px 0px 0px 0px;
-    width: 100%;
+    font: Serif;
+    display: grid;
+    grid-template-columns: 1fr 1fr; 
+    align-items: center;
 }
 
-h1 {
+.name h1 {
     background-color: black;
     padding: 5px 5px 5px 5px;
     margin-top: 0px;
@@ -21,16 +22,27 @@ h1 {
 }
 
 .name a {
-    color: aquamarine;
+    color: white;
+    text-decoration: none;
+    margin: 5px 5px 5px 5px;
+}
+
+.name a:hover {
+    color: gray;
 }
 
 .banner-links {
     background-color: black;
+    text-align: right;
+    margin-right: 5%;
+    padding: 5px 5px 5px 5px;
 }
 
-.links a {
-    color:pink;
+.banner-links a {
+    color: white;
+    text-decoration: none;
 }
 
-
-
+.banner-links a:hover {
+    color: gray;
+}
